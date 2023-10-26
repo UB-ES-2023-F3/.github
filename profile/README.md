@@ -24,6 +24,8 @@ Empecemos por los desarrolladores del Backend. La lista de operaciones necesaria
 
 Para los desarrolladores de Frontend, 'e un mondo difficile' (es un mundo complicado), como dicen. 
 
+<img src="difficile.png"/>
+
 No obstante, su DevOps de confianza se lo pone sencillo. Para ejecutar todas las pruebas, basta con agregar la etiqueta "RunTest" a un pull request, lo cual automáticamente ejecutará todos los test disponibles en la rama. ¿Sencillo, verdad? 
 
 **Despliegue (Deploy)**
@@ -41,6 +43,7 @@ Seguramente se preguntarán acerca de los desafíos que nuestro código debe sup
 * Pruebas Unitarias
 * Lint (análisis estático del código)
 * Pruebas de Postman
+  
 
    **Frontend:**
 
