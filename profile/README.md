@@ -1,4 +1,4 @@
-
+<img src="https://github.com/UB-ES-2023-F3/SocialifyFrontend/assets/44063174/509e9256-8887-4a14-831e-0a6d726ae7b1" width="400" align="center" />
 
 # Socialify
 
