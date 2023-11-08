@@ -62,6 +62,15 @@ Del mismo modo, si identifica algún error, le instamos a informárnoslo. Agrade
 
 Si ha llegado hasta este punto, le agradecemos por valorar nuestro trabajo.<3.
 
+## Credits (MVP)
+List of contributors:
+- [Oscar Blazquez]() - DevOps
+- [Esther Ruano]() - Frontend
+- [Núria Torquet]() - Frontend
+- [Martí Pirla]() - Backend
+- [Ridouane Zaim]() - Backend
+- [Manuel Liu]() - QA
+
 
     
 
