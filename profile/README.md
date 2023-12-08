@@ -12,6 +12,8 @@ En el presente documento, se brindará una explicación detallada sobre la arqui
 
 El uso de Github Actions se caracteriza por su sencillez. En calidad de DevOps, disponemos de ficheros denominados YAML que permiten la creación de máquinas virtuales con el propósito de ejecutar el código desarrollado por nuestros compañeros. Esta ejecución puede automatizarse al ocurrir ciertos eventos específicos. En nuestro caso, garantizamos que todas las pruebas mínimas se ejecuten al realizar un pull request o commit en la rama principal (main), asegurando así la integridad y calidad del código en un 100%. Esto también conlleva la disminución de la carga de trabajo para el equipo de Control de Calidad o QA.
 
+También, esto nos permite añadir credenciales de entorno solo al deploy asegurando una buena seguridad en el proceso. 
+
 **Aplicación**
 
 Si está leyendo esta documentación, es de esperar que cuente con un conocimiento básico en el ámbito informático. Dado que trabajamos con dos repositorios a fin de evitar posibles conflictos, hemos adaptado la aplicación de nuestro trabajo a las preferencias de cada grupo de desarrolladores. Por lo tanto, posteriormente desglosaremos el contenido en sus respectivas secciones.
@@ -53,6 +55,7 @@ Seguramente se preguntarán acerca de los desafíos que nuestro código debe sup
 * Pruebas de Selenium
 
 **Mantenimiento**
+Los servidores de socialify se han visto expuestos a un test de estrés para asegurar su funcionamiento en el dia a dia. Por desgracia debido al plan gratuito, los servidores generales solo aguantan 10-12 minutos de test. No obstante, el nuevo servidor de Developing es capaz de aguantar más de una hora sin tener problemas.
 
 Si usted es un desarrollador de Socialify y desea personalizar el flujo de trabajo de acuerdo a sus preferencias, no dude en ponerse en contacto con nosotros a través de Slack o WhatsApp. Estamos a su disposición para atender sus solicitudes.
 
